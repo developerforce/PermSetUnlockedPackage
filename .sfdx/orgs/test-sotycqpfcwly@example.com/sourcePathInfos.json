@@ -6,11 +6,12 @@
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562848115921,
+            "size": 128,
+            "modifiedTime": 1562851078939,
+            "changeTime": 1562855119290,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isWorkspace": false,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451"
+            "isArtifactRoot": true
         }
     ],
     [
@@ -20,11 +21,12 @@
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562848110050,
+            "size": 128,
+            "modifiedTime": 1562851078934,
+            "changeTime": 1562855119290,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isWorkspace": false,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -34,23 +36,25 @@
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562848110050,
-            "contentHash": "e8d22e84f3012c58c45b0fec4ba1f9c96ebe19a4"
+            "size": 256,
+            "modifiedTime": 1562851078937,
+            "changeTime": 1562855119290,
+            "contentHash": "d8c56f0d9834bfe8093989d356ad4454b1e2b60a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789879747,
+            "changeTime": 1562855118527,
             "contentHash": "6e9e955403afbd66f821e3174cb74320eae4232b",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -58,14 +62,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages/Accounts.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages/Accounts.flexipage-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3814,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789879747,
+            "changeTime": 1562855118527,
             "contentHash": "53fd2dc4c555dff032d406716fd31bceb8f397b3",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -73,14 +77,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/lwc",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/lwc",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789879744,
+            "changeTime": 1562855118523,
             "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -94,22 +98,23 @@
             "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562848110051,
+            "changeTime": 1562855119287,
+            "contentHash": "fd559ae5ef00542013cda41279bb9132d5929e19",
             "isWorkspace": false,
-            "contentHash": "fd559ae5ef00542013cda41279bb9132d5929e19"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882624,
+            "changeTime": 1562855119285,
             "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -117,14 +122,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/Account.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/Account.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 8953,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881546,
+            "changeTime": 1562855119081,
             "contentHash": "702adbc6d53325bdb3c7a34b4d72620fe452d372",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -132,14 +137,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 1216,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882623,
+            "changeTime": 1562855119283,
             "contentHash": "0eabcef0059b246770330ca992a70fb7b28f6b78",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -147,14 +152,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881886,
+            "changeTime": 1562855119097,
             "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -162,14 +167,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881561,
+            "changeTime": 1562855119095,
             "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -177,14 +182,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 755,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882619,
+            "changeTime": 1562855119279,
             "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -192,14 +197,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882618,
+            "changeTime": 1562855119277,
             "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -207,14 +212,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881555,
+            "changeTime": 1562855119090,
             "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -222,14 +227,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881559,
+            "changeTime": 1562855119093,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -237,14 +242,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 944,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882617,
+            "changeTime": 1562855119275,
             "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -252,14 +257,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882617,
+            "changeTime": 1562855119276,
             "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -267,14 +272,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881557,
+            "changeTime": 1562855119091,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -282,14 +287,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882616,
+            "changeTime": 1562855119274,
             "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -297,14 +302,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882618,
+            "changeTime": 1562855119278,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -312,14 +317,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881885,
+            "changeTime": 1562855119096,
             "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -327,14 +332,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882249,
+            "changeTime": 1562855119101,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -342,14 +347,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882622,
+            "changeTime": 1562855119283,
             "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -357,14 +362,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881553,
+            "changeTime": 1562855119088,
             "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -372,14 +377,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881558,
+            "changeTime": 1562855119092,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -387,14 +392,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 206,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882615,
+            "changeTime": 1562855119101,
             "contentHash": "9d2f6c78b600962d19202740171268557046a498",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -402,14 +407,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 415,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881560,
+            "changeTime": 1562855119094,
             "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -417,14 +422,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882620,
+            "changeTime": 1562855119280,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -432,14 +437,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881562,
+            "changeTime": 1562855119096,
             "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -447,14 +452,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881551,
+            "changeTime": 1562855119086,
             "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -462,14 +467,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 194,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881888,
+            "changeTime": 1562855119100,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -477,14 +482,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881887,
+            "changeTime": 1562855119098,
             "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -492,14 +497,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 336,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881559,
+            "changeTime": 1562855119093,
             "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -507,14 +512,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 383,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881553,
+            "changeTime": 1562855119087,
             "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -522,14 +527,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1091,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882623,
+            "changeTime": 1562855119283,
             "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -537,14 +542,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881552,
+            "changeTime": 1562855119087,
             "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -552,14 +557,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881560,
+            "changeTime": 1562855119094,
             "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -567,14 +572,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882620,
+            "changeTime": 1562855119279,
             "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -582,14 +587,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881556,
+            "changeTime": 1562855119090,
             "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -597,14 +602,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881556,
+            "changeTime": 1562855119091,
             "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -612,14 +617,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881886,
+            "changeTime": 1562855119097,
             "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -627,14 +632,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882622,
+            "changeTime": 1562855119282,
             "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -642,14 +647,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 940,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882621,
+            "changeTime": 1562855119281,
             "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -657,14 +662,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881554,
+            "changeTime": 1562855119089,
             "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -672,14 +677,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881888,
+            "changeTime": 1562855119099,
             "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -687,14 +692,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881550,
+            "changeTime": 1562855119085,
             "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -702,14 +707,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881548,
+            "changeTime": 1562855119082,
             "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -717,14 +722,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 213,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881547,
+            "changeTime": 1562855119082,
             "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -732,14 +737,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881548,
+            "changeTime": 1562855119083,
             "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -747,14 +752,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881549,
+            "changeTime": 1562855119084,
             "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -762,14 +767,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 452,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881550,
+            "changeTime": 1562855119085,
             "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -777,14 +782,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882624,
+            "changeTime": 1562855119284,
             "contentHash": "0caec06144c909e4216d06654080dee841554608",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -792,14 +797,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 747,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882624,
+            "changeTime": 1562855119284,
             "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -807,14 +812,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881545,
+            "changeTime": 1562855119080,
             "contentHash": "7bb47b416837c430961261dc02d5727fca6b1348",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -822,14 +827,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/Case.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/Case.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 7905,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880798,
+            "changeTime": 1562855118537,
             "contentHash": "ca38a9acc8741f27a238caee0c5fa3741fff08a6",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -837,14 +842,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 992,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881544,
+            "changeTime": 1562855119078,
             "contentHash": "b7a1bc582b829a7e2eea025ea9dd4a247f9109da",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -852,14 +857,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 302,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881533,
+            "changeTime": 1562855118679,
             "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -867,14 +872,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 299,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881533,
+            "changeTime": 1562855118871,
             "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -882,14 +887,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881522,
+            "changeTime": 1562855118669,
             "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -897,14 +902,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881543,
+            "changeTime": 1562855119078,
             "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -912,14 +917,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 191,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881160,
+            "changeTime": 1562855118541,
             "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -927,14 +932,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881542,
+            "changeTime": 1562855119077,
             "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -942,14 +947,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881536,
+            "changeTime": 1562855119073,
             "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -957,14 +962,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881532,
+            "changeTime": 1562855118679,
             "contentHash": "78d195d1a849a917372c92f99133215160bc3e93",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -972,14 +977,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881523,
+            "changeTime": 1562855118670,
             "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -987,14 +992,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881529,
+            "changeTime": 1562855118676,
             "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1002,14 +1007,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 279,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881524,
+            "changeTime": 1562855118671,
             "contentHash": "9bc08ec4947f0bec3fd5569d0fe676bb9318408d",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1017,14 +1022,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 473,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881528,
+            "changeTime": 1562855118675,
             "contentHash": "70d9703777ebb511bbb6cdfedf68605f006bd45a",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1032,14 +1037,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 285,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881524,
+            "changeTime": 1562855118672,
             "contentHash": "21baae67ca402c56c0674251eddd1af83226204f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1047,14 +1052,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 280,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881540,
+            "changeTime": 1562855119076,
             "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1062,14 +1067,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881526,
+            "changeTime": 1562855118673,
             "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1077,14 +1082,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881537,
+            "changeTime": 1562855119073,
             "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1092,14 +1097,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881159,
+            "changeTime": 1562855118540,
             "contentHash": "6632d3c8d88035305374064b84fc58f43d9bf959",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1107,14 +1112,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 860,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881538,
+            "changeTime": 1562855119074,
             "contentHash": "b81eccf4d2f388ac98d7e67f5a32ab23c6e1008d",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1122,14 +1127,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881530,
+            "changeTime": 1562855118677,
             "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1137,14 +1142,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1999,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881522,
+            "changeTime": 1562855118668,
             "contentHash": "c71c0eb4190ec03948b3faa4922cc066589006f7",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1152,14 +1157,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881535,
+            "changeTime": 1562855119072,
             "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1167,14 +1172,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 848,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881527,
+            "changeTime": 1562855118674,
             "contentHash": "34c05754a31b6dcedae1f2305fa3e190e70ba3e6",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1182,14 +1187,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881544,
+            "changeTime": 1562855119078,
             "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1197,14 +1202,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 275,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881534,
+            "changeTime": 1562855118871,
             "contentHash": "5d92ab3f6f7b42b9ccc54a1d5df00c4d461172e0",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1212,14 +1217,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881531,
+            "changeTime": 1562855118678,
             "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1227,14 +1232,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881527,
+            "changeTime": 1562855118675,
             "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1242,14 +1247,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881525,
+            "changeTime": 1562855118673,
             "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1257,14 +1262,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881539,
+            "changeTime": 1562855119075,
             "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1272,14 +1277,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881541,
+            "changeTime": 1562855119076,
             "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1287,14 +1292,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880797,
+            "changeTime": 1562855118536,
             "contentHash": "6943a1086685711106c7e3d8790c9c27ccb66920",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1302,14 +1307,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 618,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880796,
+            "changeTime": 1562855118534,
             "contentHash": "2b4b16509e931e77cd8884dcdae4ae2a350ba89b",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1317,14 +1322,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllOpenCases.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllOpenCases.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 352,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880796,
+            "changeTime": 1562855118532,
             "contentHash": "da412fa7b5556506b4bf8d4b376073ed839995a2",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1332,14 +1337,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 207,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880797,
+            "changeTime": 1562855118536,
             "contentHash": "65cf6a5a61517566ef561ef5974dab55b84dbd97",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1347,14 +1352,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 344,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789880795,
+            "changeTime": 1562855118530,
             "contentHash": "4f2c6a73b746b58ea277fcfb3336e84499d2f439",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1362,14 +1367,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881545,
+            "changeTime": 1562855119080,
             "contentHash": "c20429b41eebb3f50160e7d530585c25f179f57b",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1377,14 +1382,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks/UpsellCrosssellOpportunity.webLink-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks/UpsellCrosssellOpportunity.webLink-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 870,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789881545,
+            "changeTime": 1562855119079,
             "contentHash": "76802cca35790c72a456be8f1b362a3c337fcd72",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1392,14 +1397,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882626,
+            "changeTime": 1562855119287,
             "contentHash": "83f789c51d3fa5026278bfdad592d314393f9edb",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1407,14 +1412,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/Sales_Add_On__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/Sales_Add_On__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5178,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882625,
+            "changeTime": 1562855119286,
             "contentHash": "366af3916af34daeb0f1226dbe1323c46f649912",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1422,14 +1427,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882626,
+            "changeTime": 1562855119287,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1437,14 +1442,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews/All.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789882626,
+            "changeTime": 1562855119287,
             "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1452,72 +1457,29 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562789882980,
-            "contentHash": "8fc3898e7f64f73035dcc8596a6881b71bb3deb6",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 96,
+            "modifiedTime": 1562855905850,
+            "changeTime": 1562855905850,
+            "contentHash": "eaa3d84cb77d92a21b111fd1e37f53edc1ff9de0",
             "isWorkspace": false,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Customer Service User.profile-meta.xml",
-        {
-            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Customer Service User.profile-meta.xml",
-            "isDirectory": false,
-            "size": 15267,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562790284498,
-            "contentHash": "5a36bc6020f3661a9440aeebf2e3b603ee7d4021",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales Manager.profile-meta.xml",
-        {
-            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales Manager.profile-meta.xml",
-            "isDirectory": false,
-            "size": 16763,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562796831908,
-            "contentHash": "926673fa5cfe4bba6ff223404554b112bd025a49",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales User.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales User.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 15267,
-            "modifiedTime": 1562787448000,
-            "changeTime": 1562848110054,
-            "contentHash": "5a36bc6020f3661a9440aeebf2e3b603ee7d4021"
         }
     ],
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789879745,
+            "changeTime": 1562855118524,
             "contentHash": "96f06081a017de4fd98e6b79cabdddeddf7df9f8",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1525,14 +1487,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs/Sales_Add_On__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs/Sales_Add_On__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 194,
             "modifiedTime": 1562787448000,
-            "changeTime": 1562789879745,
+            "changeTime": 1562855118524,
             "contentHash": "8def6884155506a35648967bc9eb03bc4a776e4a",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1544,11 +1506,12 @@
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 288,
-            "modifiedTime": 1562848115928,
-            "changeTime": 1562848115928,
+            "size": 352,
+            "modifiedTime": 1562855912196,
+            "changeTime": 1562855912196,
+            "contentHash": "60d4a2c7f0bcf4246ebedaad00864bb141cdca34",
             "isWorkspace": true,
-            "contentHash": "16868298e9ea95b2317d19daddbd77a3bf6112bc"
+            "isArtifactRoot": false
         }
     ]
 ]
