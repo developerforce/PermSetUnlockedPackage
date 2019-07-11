@@ -34,14 +34,12 @@
         {
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1562851078937,
-            "changeTime": 1562855119290,
-            "contentHash": "d8c56f0d9834bfe8093989d356ad4454b1e2b60a",
+            "size": 352,
+            "modifiedTime": 1562858156959,
+            "changeTime": 1562858156959,
+            "contentHash": "ab57ea185898039ffb1759dc3b0cb37c2e5425b3",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1457,15 +1455,14 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1562857292994,
+            "changeTime": 1562857292994,
+            "contentHash": "a62b7311860f9c94d96f9ef770fc903dfe8ee655",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1562856410462,
-            "changeTime": 1562856410462,
-            "isWorkspace": false,
-            "contentHash": "8ded2fe7db5298897bde9af25ca9151cdf2f7151"
+            "state": "u"
         }
     ],
     [
@@ -1501,41 +1498,171 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets",
         {
-            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1562856410010,
             "changeTime": 1562856410010,
-            "isWorkspace": true,
-            "contentHash": "079e35e78ed5ab2f52f709a8ddca2e167df119a8"
+            "contentHash": "079e35e78ed5ab2f52f709a8ddca2e167df119a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales Manager.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales Manager.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 16763,
             "modifiedTime": 1562787448000,
             "changeTime": 1562856410460,
-            "contentHash": "926673fa5cfe4bba6ff223404554b112bd025a49"
+            "contentHash": "926673fa5cfe4bba6ff223404554b112bd025a49",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales User.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Sales User.profile-meta.xml",
             "isDirectory": false,
+            "size": 7529,
+            "modifiedTime": 1562857292989,
+            "changeTime": 1562857292989,
+            "contentHash": "f26930f40923846b3405ec082cdb6e9a8e868103",
             "isMetadataFile": true,
-            "size": 15609,
-            "modifiedTime": 1562851026311,
-            "changeTime": 1562856410462,
-            "contentHash": "567a631dd5d53722a7a719d0d3060033d8f9801a"
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Customer Service User.profile-meta.xml",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles/Customer Service User.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6965,
+            "modifiedTime": 1562857412414,
+            "changeTime": 1562857412414,
+            "contentHash": "808635ae6478b25fbd1515cf0b29846a095de673",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies/Sales_User_profilePasswordPolicy1562857266134.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies/Sales_User_profilePasswordPolicy1562857266134.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 637,
+            "modifiedTime": 1562857292995,
+            "changeTime": 1562857292995,
+            "contentHash": "c13e3e3d8ed8d836ce5a27e30867f4d9add63496",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies/Customer_Service_User_profilePasswordPolicy1562857146361.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies/Customer_Service_User_profilePasswordPolicy1562857146361.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1562857292996,
+            "changeTime": 1562857292996,
+            "contentHash": "8bb8a599a4fd590bb2c1bc88af357de12fd16117",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings/Customer_Service_User_profileSessionSetting1562857146511.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings/Customer_Service_User_profileSessionSetting1562857146511.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1562857292998,
+            "changeTime": 1562857292998,
+            "contentHash": "08f289252085295a154eed93b6ea2656e99e0a35",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings/Sales_User_profileSessionSetting1562857266233.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings/Sales_User_profileSessionSetting1562857266233.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1562857292999,
+            "changeTime": 1562857292999,
+            "contentHash": "7f9e8bc5172d3396cde6ccb3575ae4d4f5c3b682",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profilePasswordPolicies",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1562857292996,
+            "changeTime": 1562857292996,
+            "contentHash": "25436217071c7af8244d669f8a6aa7bb06fe9e8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profileSessionSettings",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1562857292998,
+            "changeTime": 1562857292998,
+            "contentHash": "d529a0706013340768ba95a8112b84921994e763",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets/Sales_Manager.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets/Sales_Manager.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1745,
+            "modifiedTime": 1562866326366,
+            "changeTime": 1562866326366,
+            "contentHash": "31de87c1070cafc4e636a1a4c40bf33f4c34d9e0"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets/Escalation_Manager.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets/Escalation_Manager.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1751,
+            "modifiedTime": 1562866326369,
+            "changeTime": 1562866326369,
+            "contentHash": "ccccd8111f8fb7a092665e20547d049347533427"
+        }
+    ],
+    [
+        "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1562858156962,
+            "changeTime": 1562858156962,
+            "contentHash": "05895d0e27aef4993adce2e2c7554ec67d683012",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
