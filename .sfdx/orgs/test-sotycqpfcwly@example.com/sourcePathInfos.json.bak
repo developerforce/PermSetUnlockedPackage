@@ -2,7 +2,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages/Accounts.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/flexipages/Accounts.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -77,7 +77,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/lwc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/lwc",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/Account.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/Account.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -137,7 +137,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -167,7 +167,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -182,7 +182,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -197,7 +197,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -212,7 +212,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -227,7 +227,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -242,7 +242,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -257,7 +257,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -287,7 +287,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -302,7 +302,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -317,7 +317,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -332,7 +332,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -347,7 +347,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -362,7 +362,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -377,7 +377,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -392,7 +392,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -407,7 +407,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -422,7 +422,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -437,7 +437,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -452,7 +452,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -467,7 +467,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -482,7 +482,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -497,7 +497,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -512,7 +512,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -527,7 +527,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -542,7 +542,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -557,7 +557,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -572,7 +572,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -587,7 +587,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -602,7 +602,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -617,7 +617,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -632,7 +632,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -647,7 +647,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -662,7 +662,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -677,7 +677,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -707,7 +707,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -722,7 +722,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -737,7 +737,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -752,7 +752,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -767,7 +767,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -782,7 +782,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -797,7 +797,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -812,7 +812,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -827,7 +827,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/Case.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/Case.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -842,7 +842,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -857,7 +857,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -872,7 +872,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -887,7 +887,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -902,7 +902,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -917,7 +917,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -932,7 +932,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -947,7 +947,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -962,7 +962,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -977,7 +977,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -992,7 +992,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1007,7 +1007,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1022,7 +1022,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1037,7 +1037,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1052,7 +1052,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1067,7 +1067,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1082,7 +1082,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1097,7 +1097,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1112,7 +1112,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1127,7 +1127,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1142,7 +1142,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1157,7 +1157,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1172,7 +1172,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1187,7 +1187,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1202,7 +1202,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1217,7 +1217,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1232,7 +1232,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1247,7 +1247,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1262,7 +1262,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1277,7 +1277,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1292,7 +1292,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1307,7 +1307,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1322,7 +1322,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllOpenCases.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/AllOpenCases.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1337,7 +1337,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1352,7 +1352,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1367,7 +1367,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1382,7 +1382,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks/UpsellCrosssellOpportunity.webLink-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Case/webLinks/UpsellCrosssellOpportunity.webLink-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1397,7 +1397,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1412,7 +1412,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/Sales_Add_On__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/Sales_Add_On__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1427,7 +1427,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1442,7 +1442,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/objects/Sales_Add_On__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1457,7 +1457,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1472,7 +1472,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1487,7 +1487,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs/Sales_Add_On__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets/force-app/main/default/tabs/Sales_Add_On__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1502,7 +1502,7 @@
     [
         "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/edegroot/Documents/GitHub/sfdx-package-profiles-to-permsets",
             "isDirectory": true,
             "isMetadataFile": false,
