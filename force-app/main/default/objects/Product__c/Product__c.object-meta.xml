@@ -152,12 +152,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Product Sku</label>
+    <label>Product</label>
     <nameField>
-        <label>Product Sku Name</label>
+        <label>Product Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Product Skus</pluralLabel>
+    <pluralLabel>Product</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
