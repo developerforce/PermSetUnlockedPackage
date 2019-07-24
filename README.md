@@ -13,7 +13,7 @@ This project contains the sample custom objects and custom tab for the Trailhead
 | **SFDX-CLI** | ![npm](https://img.shields.io/npm/v/sfdx-cli.svg?label=SFDX-CLI&logo=Salesforce&style=Popout)  |
 
 ===========================
-# The Project Overview
+## The Project Overview
 
 ### Set Up the Salesforce DX Project
 Our first goal is to set up a developer project which we'll use to modify our application. It starts by cloning the repository. Use the command ...
@@ -64,6 +64,7 @@ After installing the package into a scratch org and testing it out, next you rel
 ```
 sfdx force:package:version:promote -p packageName@1.0.0-1 -v DevHub
 ```
+
 ===========================
 ### Resources
 For details on using sfdx-simple, please review the [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev).
