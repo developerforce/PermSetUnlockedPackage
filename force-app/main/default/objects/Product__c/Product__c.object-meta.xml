@@ -149,16 +149,15 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Sales_Add_On</label>
+    <label>Product</label>
     <nameField>
-        <displayFormat>SP-{00000}</displayFormat>
-        <label>Sales_Add_On Number</label>
-        <type>AutoNumber</type>
+        <label>Product Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>Sales_Add_Ons</pluralLabel>
+    <pluralLabel>Product</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
