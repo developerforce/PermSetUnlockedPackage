@@ -3,19 +3,19 @@ This project contains the sample custom objects and custom tab for the Trailhead
 
 ===========================
 ### Contents:
-- [Tool Versioning](#tool-versioning) 
+- [Tools](#tool-versioning) 
 - [Resources](#resources)
 
 ===========================
-### Tool Versioning
+### Tools
 |  Tool:       |  Version:  |
 | ------------ | ---------- | 
 | **SFDX-CLI** | ![npm](https://img.shields.io/npm/v/sfdx-cli.svg?label=SFDX-CLI&logo=Salesforce&style=Popout)  |
 
 ===========================
-### The Project Overview
+# The Project Overview
 
-# Set Up the Salesforce DX Project
+### Set Up the Salesforce DX Project
 Our first goal is to set up a developer project which we'll use to modify our application. It starts by cloning the repository. Use the command ...
 ```
 git clone https://github.com/developerforce/sfdx-package-profiles-to-permsets
@@ -28,7 +28,7 @@ git clone git@github.com:developerforce/sfdx-package-profiles-to-permsets
 ```
   cd sfdx-package-profiles-to-permsets
 ```
-# Authorize Dev Hub in your Trailhead Playground
+### Authorize Dev Hub in your Trailhead Playground
 Log into your Dev Hub org.
 ```
   sfdx force:auth:web:login -d -a "Hub Org"
@@ -39,23 +39,30 @@ If you already have an authorized Dev Hub, set it as the default:
 ```
   sfdx force:config:set defaultdevhubusername=<username|alias>
 ```
-
-# Create a scratch org 
+### Create a scratch org 
 ```
   sfdx force:org:create -s -f config/project-scratch-def.json
 ```
-
-If you want to use an existing scratch org, set it as the default:
-```
-  sfdx force:config:set defaultusername=<username|alias>
-```
-# Push the source to your scratch org
+### Push the source to your scratch org
 ```
   sfdx force:source:push
 ```
-# Open the scratch org.
+### Open the scratch org.
 ```
-    sfdx force:org:open --path one/one.app
+    sfdx force:org:open  
+```
+### Pull the changes  
+```
+    sfdx force:org:pull  
+```
+### Create a new Package Version
+```
+    sfdx force:package:version:create -p nameofApp  -d force-app -k test1234 --wait 10 -v DevHub
+```
+
+After installing the package into a scratch org and testing it out, next you release the package!
+```
+sfdx force:package:version:promote -p packageName@1.0.0-1 -v DevHub
 ```
 ===========================
 ### Resources
