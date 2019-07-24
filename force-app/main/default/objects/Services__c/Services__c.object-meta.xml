@@ -152,13 +152,13 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Sales_Add_On</label>
+    <label>Services</label>
     <nameField>
-        <displayFormat>SP-{00000}</displayFormat>
-        <label>Sales_Add_On Number</label>
+        <displayFormat>S-{00000}</displayFormat>
+        <label>Services Number</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Sales_Add_Ons</pluralLabel>
+    <pluralLabel>Services</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
