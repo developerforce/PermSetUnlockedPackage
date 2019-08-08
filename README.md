@@ -1,16 +1,16 @@
 <h1 align="center">Trailhead Packaging Permission Sets Project</h1>
-This project contains the sample custom objects and custom tab for the Trailhead project 'Packaging Permission Sets with Salesforce DX'. The objective of this training is to show the trailblazer how to create and package a custom permission set using Salesforce DX CLI and working with Unlocked Packages. 
+This project contains the sample custom objects and custom tab for the Trailhead project 'Packaging Permission Sets with Salesforce DX'. The objective of this training is to show the trailblazer how to create and package a custom permission set using Salesforce DX CLI and working with Unlocked Packages.
 
 ===========================
 #### Contents:
-- [Tools](#tool-versioning) 
+- [Tools](#tools)
 - [Resources](#resources)
 
 ===========================
 #### Tools
 |  Tool:       |  Version:  |
-| ------------ | ---------- | 
-| **SFDX-CLI** | ![npm](https://img.shields.io/npm/v/sfdx-cli.svg?label=SFDX-CLI&logo=Salesforce&style=Popout)  |
+| ------------ | ---------- |
+| **SFDX-CLI** | [![npm](https://img.shields.io/npm/v/sfdx-cli.svg?label=SFDX-CLI&logo=Salesforce&style=Popout)](https://developer.salesforce.com/tools/sfdxcli)  |
 
 ===========================
 ## The Project Overview
@@ -26,38 +26,38 @@ git clone git@github.com:developerforce/sfdx-package-profiles-to-permsets
 ```
 … to clone the repository. Then, open the directory.
 ```
-  cd sfdx-package-profiles-to-permsets
+cd sfdx-package-profiles-to-permsets
 ```
 ### Authorize Dev Hub in your Trailhead Playground
 Log into your Dev Hub org.
 ```
-  sfdx force:auth:web:login -d -a "Hub Org"
-  ```
+sfdx force:auth:web:login -d -a DevHub
+```
 Proceed to log in with your dev hub credentials.
 
 If you already have an authorized Dev Hub, set it as the default:
 ```
-  sfdx force:config:set defaultdevhubusername=<username|alias>
+sfdx force:config:set defaultdevhubusername=<username|alias>
 ```
-### Create a scratch org 
+### Create a scratch org
 ```
-  sfdx force:org:create -s -f config/project-scratch-def.json
+sfdx force:org:create -s -f config/project-scratch-def.json
 ```
 ### Push the source to your scratch org
 ```
-  sfdx force:source:push
+sfdx force:source:push
 ```
-### Open the scratch org.
+### Open the scratch org and make some changes.
 ```
-    sfdx force:org:open  
+sfdx force:org:open
 ```
-### Pull the changes  
+### Pull the changes
 ```
-    sfdx force:org:pull  
+sfdx force:org:pull
 ```
 ### Create a new Package Version
 ```
-    sfdx force:package:version:create -p nameofApp  -d force-app -k test1234 --wait 10 -v DevHub
+sfdx force:package:version:create -p packageName -d force-app -k test1234 --wait 10 -v DevHub
 ```
 
 After installing the package into a scratch org and testing it out, next you release the package!
