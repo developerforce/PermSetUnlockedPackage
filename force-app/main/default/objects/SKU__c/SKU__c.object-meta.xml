@@ -150,16 +150,15 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Services</label>
+    <label>SKU</label>
     <nameField>
-        <displayFormat>S-{00000}</displayFormat>
-        <label>Services Number</label>
-        <type>AutoNumber</type>
+        <label>SKU Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>Services</pluralLabel>
+    <pluralLabel>SKUS</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
