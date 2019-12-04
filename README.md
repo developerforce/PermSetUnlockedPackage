@@ -18,15 +18,15 @@ This project contains the sample custom objects and custom tab for the Trailhead
 ### Set Up the Salesforce DX Project
 Our first goal is to set up a developer project which we'll use to modify our application. It starts by cloning the repository. Use the command ...
 ```
-git clone https://github.com/developerforce/sfdx-package-profiles-to-permsets
+git clone https://github.com/developerforce/PermSetUnlockedPackage
 ```
 … or ...
 ```
-git clone git@github.com:developerforce/sfdx-package-profiles-to-permsets
+git clone git@github.com:developerforce/PermSetUnlockedPackage
 ```
 … to clone the repository. Then, open the directory.
 ```
-cd sfdx-package-profiles-to-permsets
+cd PermSetUnlockedPackage
 ```
 ### Authorize Dev Hub in your Trailhead Playground
 Log into your Dev Hub org.
