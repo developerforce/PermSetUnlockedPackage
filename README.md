@@ -4,6 +4,7 @@ This project contains the sample custom objects and custom tab for the Trailhead
 ===========================
 #### Contents:
 - [Tools](#tools)
+- [Project Overview](#the project overview)
 - [Resources](#resources)
 
 ===========================
